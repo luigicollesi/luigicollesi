@@ -1,10 +1,8 @@
 # Oi, eu sou o Luigi 👋
 
-Sou desenvolvedor de software e gosto de construir produtos de ponta a ponta — desde a interface com a qual as pessoas interagem até o backend, o modelo de dados e todo o estado que precisa continuar consistente no meio do caminho.
+Sou estudante de **Engenharia da Computação no Instituto Mauá de Tecnologia**, com formação prevista para o fim de 2027, e venho direcionando meus projetos para desenvolvimento de software full-stack.
 
-A maior parte do que venho desenvolvendo recentemente gira em torno de **TypeScript, React, Next.js e Node.js**, além de alguns projetos com React Native e NestJS. Também tenho trabalhado com integrações de IA, principalmente em aplicações nas quais o modelo faz parte do fluxo real do produto, e não aparece apenas como uma interface de chat.
-
-A parte do desenvolvimento de software que mais me interessa geralmente começa depois que a primeira versão já está funcionando: decidir onde cada responsabilidade deve ficar, manter estados sincronizados, estruturar persistência, lidar com serviços externos que podem falhar e manter uma base de código compreensível conforme ela cresce.
+Tenho trabalhado principalmente com **TypeScript, React, Next.js e Node.js**, além de React Native, NestJS e integrações de IA. Gosto especialmente da parte que começa quando a primeira versão já funciona: organizar responsabilidades, sincronizar estado, estruturar persistência, lidar com falhas e manter a base de código compreensível conforme ela cresce.
 
 ## Projetos em destaque
 
