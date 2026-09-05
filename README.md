@@ -6,7 +6,7 @@ A maior parte do que venho desenvolvendo recentemente gira em torno de **TypeScr
 
 A parte do desenvolvimento de software que mais me interessa geralmente começa depois que a primeira versão já está funcionando: decidir onde cada responsabilidade deve ficar, manter estados sincronizados, estruturar persistência, lidar com serviços externos que podem falhar e manter uma base de código compreensível conforme ela cresce.
 
-## Projetos pelos quais eu começaria
+## Projetos em destaque
 
 ### [WAR Brasil](https://github.com/luigicollesi/war-brasil)
 
@@ -67,13 +67,3 @@ Procuro manter as fronteiras da aplicação explícitas, em vez de deixar fronte
 Também gosto de projetos que trazem restrições reais de produto. Jogos multiplayer têm sido especialmente interessantes nesse sentido: funcionalidades aparentemente simples rapidamente se transformam em questões de concorrência, persistência, responsabilidade sobre o estado, recuperação de falhas e o que o usuário deve enxergar quando alguma coisa dá errado.
 
 Ainda há bastante coisa nesses projetos que continuo evoluindo — e essa é uma das razões pelas quais mantenho esses repositórios públicos.
-
-## Se você está avaliando meu GitHub para uma oportunidade
-
-Para ter uma visão rápida do meu trabalho:
-
-* **WAR Brasil** é provavelmente o melhor lugar para observar arquitetura, gerenciamento de estado e uma base de código maior em evolução.
-* **Contrapista** mostra mais do meu trabalho full-stack com autenticação, fluxos multiplayer e integrações com IA.
-* **Audiolivros** mostra como venho abordando um cliente mobile e um backend estruturado de forma independente.
-
-Fique à vontade para explorar o código, o histórico de commits e a documentação dos projetos. Gosto especialmente de conversar sobre as decisões e os trade-offs por trás das implementações, e não apenas sobre o resultado final.
